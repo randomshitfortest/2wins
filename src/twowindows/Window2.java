@@ -24,6 +24,7 @@ public class Window2 extends Window {
         frame.setVisible(true);
 
         //just testing shit
+        System.out.println();
 
     }
 }
