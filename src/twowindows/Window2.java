@@ -23,5 +23,7 @@ public class Window2 extends Window {
         frame.pack();
         frame.setVisible(true);
 
+        //just testing shit
+
     }
 }
